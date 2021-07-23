@@ -1,0 +1,4 @@
+Xatamjonov Ulug'bek: 
+Men bugungi 33-darsda fayllar bilan ishlashni o'rgandim.
+Yani fayllarni pythonda ochishning bir necha xil usullarini,
+pythonda matn yozishni va boshqa usullarni o'rgandim.
